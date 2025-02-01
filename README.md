@@ -3,5 +3,5 @@ React + Typescript
 Redux + Redux Toolkit
 Material UI
 ESLint + Prettier + Husky
-Vite, Vitest
+Vite, 
 GitHub Pages
